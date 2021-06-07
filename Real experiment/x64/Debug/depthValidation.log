@@ -1,0 +1,45 @@
+﻿  plotDepth.cpp
+  optiTrack.cpp
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\optitrack.cpp(247): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\optitrack.cpp(253): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\optitrack.cpp(254): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\optitrack.cpp(255): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\optitrack.cpp(256): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\optitrack.cpp(257): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\optitrack.cpp(258): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\optitrack.cpp(262): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\optitrack.cpp(263): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\optitrack.cpp(264): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  observerDesign.cpp
+  natUtils.cpp
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(50): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(93): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(113): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(137): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(138): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(139): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(143): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(153): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(159): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(160): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(176): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\lixiangfei\07 depth estimation experiment\depthvalidation\depthvalidation\natutils.cpp(194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  filters.cpp
+  depthEstimation.cpp
+  createClient.cpp
+  Generating Code...
+  depthValidation.vcxproj -> F:\lixiangfei\07 Depth estimation experiment\depthValidation\x64\Debug\depthValidation.exe
+  depthValidation.vcxproj -> F:\lixiangfei\07 Depth estimation experiment\depthValidation\x64\Debug\depthValidation.pdb (Full PDB)
